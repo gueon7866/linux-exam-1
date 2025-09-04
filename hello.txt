@@ -1,0 +1,4 @@
+Hello vim!
+Hello vim!
+Hello vim!
+Hello vim!
